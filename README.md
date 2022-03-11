@@ -1,4 +1,4 @@
-# Hi, I'm swyx
+# Hi, I'm Sint0
 
 ## Why read me?
 
