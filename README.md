@@ -1,8 +1,8 @@
 <!--<h3 align="center">
-![image](https://cdn.discordapp.com/attachments/938129523784957972/951117026137632828/unknown.png)
+![image](https://cdn.discordapp.com/attachments/941755353035579422/951879632544747540/Unbenannt-1.png)
 </h3> -->
 
-![image](https://cdn.discordapp.com/attachments/938129523784957972/951117026137632828/unknown.png)
+![image](https://cdn.discordapp.com/attachments/941755353035579422/951879632544747540/Unbenannt-1.png)
 
 <p align = "center">
   <a href = "https://eternity-sint0.xyz">Website</a> •
