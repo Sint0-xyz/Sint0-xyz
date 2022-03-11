@@ -1,4 +1,4 @@
->!-->h3 align="center">
+<!--<h3 align="center">
 ![image](https://cdn.discordapp.com/attachments/938129523784957972/951117026137632828/unknown.png)
 </h3> -->
 
