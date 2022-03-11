@@ -7,7 +7,7 @@
 <p align = "center">
   <a href = "https://eternity-sint0.xyz">Website</a> •
   <a href = "https://eternity-sint0.xyz">Discord</a> •
-  <a href = "https://eternity-sint0.xyz">Twitter</a> •
+  <a href = "https://eternity-sint0.xyz">Twitter</a> 
 </p>
 
 ---
