@@ -14,9 +14,16 @@
 
 I'm a [Senior Developer Advocate at Eternity](https://eternity-sint0.xyz) focusing on fullstack serverless web applications.
 
+# 🙋‍♂️ About Me
+
 - 🔭 I’m currently working on ... Eternityware
+- 
 - 🌱 I’m currently learning ... C++
+- 
 - 👯 I’m looking to collaborate on ... Polar.api & R0Host
+- 
 - 💬 Ask me about ... Anything
+- 
 - 📫 How to reach me: ... [Website](https://link) , [Discord](https://discord.gg/NtrQeFfJHP)
+- 
 - 😄 Pronouns: ... He/Him
