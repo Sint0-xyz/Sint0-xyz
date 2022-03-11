@@ -18,5 +18,5 @@ I'm a [Senior Developer Advocate at Eternity](https://eternity-sint0.xyz) focusi
 - 🌱 I’m currently learning ... C++
 - 👯 I’m looking to collaborate on ... Polar.api & R0Host
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Website] (https://link) , [Discord] (https://discord.gg/NtrQeFfJHP)
+- 📫 How to reach me: ... [Website](https://link) , [Discord](https://discord.gg/NtrQeFfJHP)
 - 😄 Pronouns: ... He/Him
