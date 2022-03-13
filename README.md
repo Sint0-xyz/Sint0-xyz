@@ -16,17 +16,17 @@
 
 ## 🙋‍♂️ About Me
 
-- **🔭 I’m currently working on ... Eternityware
+- **🔭 I’m currently working on ... Eternityware**
 
-- 🌱 I’m currently learning ... C++
+- **🌱 I’m currently learning ... C++**
  
-- 👯 I’m looking to collaborate with ... Polar.api & R0Host
+- **👯 I’m looking to collaborate with ... Polar.api & R0Host**
 
-- 💬 Ask me about ... Anything
+- **💬 Ask me about ... Anything**
 
-- 📫 How to reach me: ... [Website](https://link) , [Discord](https://discord.gg/NtrQeFfJHP)
+- **📫 How to reach me: ... [Website](https://link) , [Discord](https://discord.gg/NtrQeFfJHP)**
 
-- 😄 Pronouns: ... He/Him**
+- **😄 Pronouns: ... He/Him**
 
 ## 🚀 Languages:
 
