@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning ... C++
  
-- 👯 I’m looking to collaborate on ... Polar.api & R0Host
+- 👯 I’m looking to collaborate with ... Polar.api & R0Host
 
 - 💬 Ask me about ... Anything
 
