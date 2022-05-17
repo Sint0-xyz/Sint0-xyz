@@ -16,17 +16,7 @@
 
 ## 🙋‍♂️ About Me
 
-- **🔭 I’m currently working on ... Eternityware**
-
-- **🌱 I’m currently learning ... C++**
- 
-- **👯 I’m looking to collaborate with ... Polar.api & R0Host**
-
-- **💬 Ask me about ... Anything**
-
-- **📫 How to reach me: ... [Website](https://link) , [Discord](https://discord.gg/NtrQeFfJHP)**
-
-- **😄 Pronouns: ... He/Him**
+- **Im black**
 
 ## 🚀 Languages:
 
