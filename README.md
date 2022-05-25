@@ -5,14 +5,14 @@
 ![image](https://imgur.com/rRzZvOm.png)
 
 <p align = "center">
-  <a href = "https://eternity-sint0.xyz">Website</a> •
-  <a href = "https://eternity-sint0.xyz">Discord</a> •
-  <a href = "https://eternity-sint0.xyz">Twitter</a> 
+  <a href = "https://r3d-sint0.xyz">Website</a> •
+  <a href = "https://r3d-sint0.xyz">Discord</a> •
+  <a href = "https://r3d-sint0.xyz">Twitter</a> 
 </p>
 
 ---
 
-**I'm a [Senior Developer Advocate at Eternity](https://eternity-sint0.xyz) focusing on fullstack serverless web applications.**
+**I'm a [Senior Developer Advocate at Eternity](https://r3d-sint0.xyz) focusing on fullstack serverless web applications.**
 
 ## 🙋‍♂️ About Me
 
