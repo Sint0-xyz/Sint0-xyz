@@ -16,7 +16,7 @@
 
 ## 🙋‍♂️ About Me
 
-- **Im black**
+- **Im 17**
 
 ## 🚀 Languages:
 
