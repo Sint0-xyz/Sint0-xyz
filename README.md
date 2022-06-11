@@ -2,7 +2,7 @@
 ![image](https://cdn.discordapp.com/attachments/941755353035579422/951879632544747540/Unbenannt-1.png)
 </h3> -->
 
-![image](https://imgur.com/JYlWMQf.png)
+![image](https://ibb.co/d02vDBH.png)
 
 <p align = "center">
   <a href = "https://r3d-sint0.xyz">Website</a> •
