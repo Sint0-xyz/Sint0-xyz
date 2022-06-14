@@ -52,3 +52,5 @@
 <a href = "https://link/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
+<a href="https://sint0.cf" target="_blank"> <img src="[https://discord.c99.nl/widget/theme-1/956976561234513990.png](https://discord.c99.nl/widget/theme-1/831628256561201153.png)"/></a>
+<a href="https://sint0.cf" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
