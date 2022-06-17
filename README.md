@@ -5,14 +5,14 @@
 ![image](https://i.postimg.cc/4yP0JYyv/connecting231313.png)
 
 <p align = "center">
-  <a href = "https://r3d-sint0.xyz">Website</a> •
-  <a href = "https://r3d-sint0.xyz">Discord</a> •
-  <a href = "https://r3d-sint0.xyz">Twitter</a> 
+  <a href = "https://sint0.cf">Website</a> •
+  <a href = "https://sint0.cf">Discord</a> •
+  <a href = "https://sint0.cf">Twitter</a> 
 </p>
 
 ---
 
-**I'm a [Senior Developer Advocate at Eternity](https://r3d-sint0.xyz) focusing on fullstack serverless web applications.**
+**I'm a [Senior Developer Advocate at Eternity](https://sint0.cf) focusing on fullstack serverless web applications.**
 
 ## 🙋‍♂️ About Me
 
@@ -46,11 +46,11 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://link/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://link/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://link/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://link/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://sint0.cf"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://sint0.cf"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://sint0.cf"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://sint0.cf"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
-<a href="https://www.sint0.cf" target="_blank"> <img src="[https://discord.c99.nl/widget/theme-1/956976561234513990.png](https://discord.c99.nl/widget/theme-1/831628256561201153.png)"/></a>
 <a href="https://www.sint0.cf" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+<a href="https://www.sint0.cf" target="_blank"> <img src="[https://discord.c99.nl/widget/theme-1/956976561234513990.png](https://discord.c99.nl/widget/theme-1/831628256561201153.png)"/></a>
