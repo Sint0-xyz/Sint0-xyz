@@ -5,18 +5,21 @@
 ![image](https://i.postimg.cc/4yP0JYyv/connecting231313.png)
 
 <p align = "center">
-  <a href = "https://sint0.cf">Website</a> •
-  <a href = "https://sint0.cf">Discord</a> •
-  <a href = "https://sint0.cf">Twitter</a> 
+  <a href = "https://www.sint0.cf">Website</a> •
+  <a href = "https://www.sint0.cf">Discord</a> •
+  <a href = "https://www.sint0.cf">Twitter</a> 
 </p>
 
 ---
 
-**I'm a [Senior Developer Advocate at Eternity](https://sint0.cf) focusing on fullstack serverless web applications.**
+**I'm a [Senior Developer Advocate at Eternity](https://www.sint0.cf) focusing on fullstack serverless web applications.**
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ Discord
 
-- **Im 17**
+<a href="https://discord.com/users/831628256561201153">
+				<img src="https://discord.c99.nl/widget/theme-1/831628256561201153.png" alt="Discord" />
+				<br>
+			</a>
 
 ## 🚀 Languages:
 
@@ -42,19 +45,13 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-<a href="https://discord.com/users/831628256561201153">
-				<img src="https://discord.c99.nl/widget/theme-1/831628256561201153.png" alt="Discord" />
-				<img src="https://discord.c99.nl/widget/theme-1/904139943515934772.png" alt="Discord">
-				<br>
-			</a>
-
 ## Connect with me:
 <p align="left">
 
-<a href = "https://sint0.cf"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://sint0.cf"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://sint0.cf"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://sint0.cf"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.sint0.cf"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.sint0.cf"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.sint0.cf"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.sint0.cf"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 <a href="https://www.sint0.cf" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
