@@ -2,7 +2,7 @@
 ![image](https://cdn.discordapp.com/attachments/941755353035579422/951879632544747540/Unbenannt-1.png)
 </h3> -->
 
-![image](https://i.postimg.cc/fRMZ3CbJ/6a0104ba30c01bff32b9e19c49fec1b5.gif)
+![image](https://gifer.com/en/gifs/dark-background)
 
 <p align = "center">
   <a href = "https://www.sint0.cf">Website</a> •
