@@ -2,7 +2,7 @@
 ![image](https://cdn.discordapp.com/attachments/941755353035579422/951879632544747540/Unbenannt-1.png)
 </h3> -->
 
-![image](https://i.postimg.cc/sDr1cpXR/entities-video.gif)
+![image](https://i.postimg.cc/W1DRqyvp/240-2407690-dark-anime-wallpaper-hd.jpg)
 
 <p align = "center">
   <a href = "https://www.sint0.cf">Website</a> •
