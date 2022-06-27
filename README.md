@@ -12,7 +12,7 @@
 
 ---
 
-**I'm a [Senior Developer Advocate at Eternity](https://www.sint0.cf) focusing on fullstack serverless web applications.**
+**I'm a black ig.**
 
 ## 🙋‍♂️ Discord
 
