@@ -6,7 +6,7 @@
 
 <p align = "center">
   <a href = "https://www.sint0.cf">Website</a> •
-  <a href = "https://www.sint0.cf">Discord</a> •
+  <a href = "https://www.negar.ga">Discord</a> •
   <a href = "https://www.sint0.cf">Twitter</a> 
 </p>
 
