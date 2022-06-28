@@ -12,7 +12,7 @@
 
 ---
 
-**I'm a black ig.**
+**I'm black ig.**
 
 ## 🙋‍♂️ Discord
 
