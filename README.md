@@ -12,7 +12,7 @@
 
 ---
 
-**I'm black ig.**
+**mail: 1337@sint0.cf || fister@negar.ga**
 
 ## 🙋‍♂️ Discord
 
