@@ -21,30 +21,23 @@
 				<br>
 			</a>
 
-### Languages
+## 🚀Languages
 
-![cplusplus](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus&logoColor=blue)
-![csharp](https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp&logoColor=purple)
-![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
-![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
-![lua](https://custom-icon-badges.herokuapp.com/badge/lua-black.svg?logo=lua&logoColor=blue)
-![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
+![C++](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus&logoColor=blue)
+![C#](https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp&logoColor=purple)
+![JS](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
+![Lua](https://custom-icon-badges.herokuapp.com/badge/lua-black.svg?logo=lua&logoColor=blue)
 
-### Technologies & Frameworks
+## 🎉Frameworks
 
-![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
-![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
-![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
+![Css](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
+![Html](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
 ![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
 ![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
-![prisma](https://img.shields.io/badge/prisma-black?style=flat-square&logo=prisma&logoColor=2D3748)
-![graphql](https://img.shields.io/badge/graphql-black?style=flat-square&logo=graphql&logoColor=E10098)
-![discord](https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord)
-![electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
-![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
-![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
-![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
+![Discord](https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord)
+![Electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
+![Express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
+![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
 
 <!--## 🚀 Languages:
 
