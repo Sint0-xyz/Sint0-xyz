@@ -23,7 +23,7 @@
 
 ## 🚀Languages
 <a href = "https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus&logoColor=blue"/></a>
-<a href = "https://www.innovasys.com/product/dx/features_dotnet?gclid=CjwKCAjw5s6WBhA4EiwACGncZQazfEXTOW3bjFHyznuT5fQXOzEc-lhNujLNk-bZi0Y59f0k-PdaQhoCNnAQAvD_BwE"><img src="https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp&logoColor=purple"/></a>
+<a href = "https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp&logoColor=purple"/></a>
 <a href = "https://developer.mozilla.org/de/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript"/></a>
 <a href = "https://www.lua.org/docs"><img src="https://custom-icon-badges.herokuapp.com/badge/lua-black.svg?logo=lua&logoColor=blue"/></a>
 
