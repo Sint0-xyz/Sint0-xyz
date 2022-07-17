@@ -21,7 +21,32 @@
 				<br>
 			</a>
 
-## 🚀 Languages:
+### Languages
+
+![cplusplus](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus&logoColor=blue)
+![csharp](https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp&logoColor=purple)
+![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
+![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
+![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
+![lua](https://custom-icon-badges.herokuapp.com/badge/lua-black.svg?logo=lua&logoColor=blue)
+![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
+
+### Technologies & Frameworks
+
+![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
+![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
+![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
+![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
+![prisma](https://img.shields.io/badge/prisma-black?style=flat-square&logo=prisma&logoColor=2D3748)
+![graphql](https://img.shields.io/badge/graphql-black?style=flat-square&logo=graphql&logoColor=E10098)
+![discord](https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord)
+![electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
+![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
+![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
+![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
+
+<!--## 🚀 Languages:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -40,7 +65,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
+</p>-->
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
