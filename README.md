@@ -34,7 +34,7 @@
 ![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
 ![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
 ![Discord](https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord)
-![Discord](https://img.shields.io/badge/discord.py-green?style=flat-square&logo=discord)
+![Discord](https://img.shields.io/badge/discord.py-black?style=flat-square&logo=discord)
 ![Electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
 ![Express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
