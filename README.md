@@ -27,13 +27,14 @@
 <a href = "https://developer.mozilla.org/de/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript"/></a>
 <a href = "https://www.lua.org/docs"><img src="https://custom-icon-badges.herokuapp.com/badge/lua-black.svg?logo=lua&logoColor=blue"/></a>
 
-## 🎉Frameworks
+## 🎉Technologies & Frameworks
 
 ![Css](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![Html](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
 ![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
 ![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
 ![Discord](https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord)
+![Discord](https://img.shields.io/badge/discord.py-green?style=flat-square&logo=discord)
 ![Electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
 ![Express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
