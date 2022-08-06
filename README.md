@@ -37,16 +37,15 @@
 <a href = "https://www.lua.org/docs"><img src="https://custom-icon-badges.herokuapp.com/badge/lua-black.svg?logo=lua&logoColor=blue"/></a>
 
 ## 🎉Technologies & Frameworks
-
-![Css](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
-![Html](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
-![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
-![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
-![Discord](https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord)
-![Discord](https://img.shields.io/badge/discord.py-black?style=flat-square&logo=discord)
-![Electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
-![Express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
-![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
+<a href = "https://devdocs.io/css/"><img src="https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6"/></a>
+<a href = "https://devdocs.io/html/"><img src="https://img.shields.io/badge/html5-black?style=flat-square&logo=html5"/></a>
+<a href = "https://nextjs.org/"><img src="https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js"/></a>
+<a href = "https://nodejs.org/en/docs/"><img src="https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js"/></a>
+<a href = "https://discord.js.org/#/docs/discord.js/main/general/welcome"><img src="https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord"/></a>
+<a href = "https://discordpy.readthedocs.io/en/stable/index.html"><img src="https://img.shields.io/badge/discord.py-black?style=flat-square&logo=discord"/></a>
+<a href = "https://www.electronjs.org/docs/latest/"><img src="https://img.shields.io/badge/electron-black?style=flat-square&logo=electron"/></a>
+<a href = "https://expressjs.com/"><img src="https://img.shields.io/badge/express-black?style=flat-square&logo=express"/></a>
+<a href = "https://getbootstrap.com/docs/4.1/getting-started/introduction/"><img src="https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap"/></a>
 
 <!--## 🚀 Languages:
 
