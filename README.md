@@ -79,5 +79,5 @@
 <a href = "https://www.sint0.cf"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.sint0.cf"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
-</p>
-<a href="https://www.sint0.cf" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+<!--/p>
+<a href="https://www.sint0.cf" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>-->
