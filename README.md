@@ -14,9 +14,8 @@
 ![image](https://i.postimg.cc/wMsGvF5Y/dadadadad23131231.png)
 
 <p align = "center">
-  <a href = "https://www.sint0.cf">Website</a> •
-  <a href = "https://www.negar.ga">Discord</a> •
-  <a href = "https://www.sint0.cf">Twitter</a> 
+  <a href = "https://sint0.cf">Website</a> •
+  <a href = "https://sint0.cf">Twitter</a> 
 </p>
 
 ---
@@ -74,10 +73,10 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.sint0.cf"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.sint0.cf"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.sint0.cf"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.sint0.cf"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://sint0.cf"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://sint0.cf"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://sint0.cf"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://sint0.cf"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 <!--/p>
-<a href="https://www.sint0.cf" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>-->
+<a href="https://sint0.cf" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>-->
