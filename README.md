@@ -14,8 +14,7 @@
 ![image](https://i.postimg.cc/wMsGvF5Y/dadadadad23131231.png)
 
 <p align = "center">
-  <a href = "https://sint0.cf">Website</a> •
-  <a href = "https://sint0.cf">Twitter</a> 
+  <a href = "https://sint0.cf">Website</a>
 </p>
 
 ---
